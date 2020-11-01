@@ -1,1 +1,2 @@
-# WT_assign_3
+# assignment-3
+Fetching data using JSON
